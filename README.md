@@ -8,11 +8,11 @@
 </p>
 
 <h3>Find more about me here:</h3>
-<a href="https://linkedin.com/in/alexhéritier">
+<a href="https://linkedin.com/in/alexhéritier" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 </a>
 &nbsp;
-<a href="https://www.alexheritier.dev">
+<a href="https://www.alexheritier.dev" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/alexheritier.dev-white?logo=globe&logoColor=black" alt="Website" height="25">
 </a>
 <br>
