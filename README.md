@@ -8,7 +8,7 @@
 </p>
 
 <h3>Find more about me here:</h3>
-<a href="https://linkedin.com/in/alexhéritier" target="_blank">
+<a href="https://linkedin.com/in/alexheritier" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 </a>
 &nbsp;
